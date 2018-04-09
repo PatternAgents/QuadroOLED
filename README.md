@@ -1,7 +1,7 @@
-# QuadroOLED - Four channel OLED Trigger I/O
+# QuadroOLED - OLED Display Module
 
 
-The QuadroOLED is a low cost, embeddable OLED Trigger module
+The QuadroOLED is a low cost, embeddable OLED Display module
 
 * Embedded Rack Architecture (Eurorack compatible)
 * Optically Isolated OLED Input Jack
@@ -20,8 +20,8 @@ circuits for demonstrating the use of the PatternAgents IP and Libraries.
 ---------------------------------------
 ## QuadroOLED Applications <a name="QuadroOLED_Applications"/>
 
-* OLED to Trigger (Drum Piezo or other Human Interface)
-* Add-on board for QuadroTeenia (OLED I/O and Trigger I/O)
+* OLED Display for QuadroTeenia
+* Add-on board for QuadroTeenia
 
 ---------------------------------------
 ## QuadroOLED Status <a name="QuadroOLED_Status"/>
