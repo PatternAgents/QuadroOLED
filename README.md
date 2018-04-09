@@ -4,12 +4,10 @@
 The QuadroOLED is a low cost, embeddable OLED Display module
 
 * Embedded Rack Architecture (Eurorack compatible)
-* Optically Isolated OLED Input Jack
-* Driven OLED Output Jack
-* OLED Clock Output Jack
-* OLED Run/Stop Output Jack
-* Four (4) DC coupled  Trigger input channels
-* Four (4) DC coupled  Trigger output channels
+* 128x64 Pixel OLED Display (SPI)
+* Dual Potentiometer inputs
+* Dual Pushbutton inputs
+* Quad (4) RGB Neopixels (per channel)
 * Add an optional Front-Panel board for mounting in ERA and/or Eurorack enclosures
 
 [![patternagents QuadroOLED](https://raw.githubusercontent.com/patternagents/QuadroOLED/master/QuadroOLED/images/QuadroOLED_iso.png?raw=true)QuadroOLED](https://github.com/patternagents/QuadroOLED)
