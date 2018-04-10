@@ -1,5 +1,16 @@
 # QuadroOLED - OLED Display Module
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Format : ERA / Eurorack / Breadboard Friendly
+
+Height : 1U 
+
+Width: 16HP
+
+Depth : 1.0 cm
+
+Power : +12V 40mA, -12V 40mA
 
 The QuadroOLED is a low cost, embeddable OLED Display module
 
